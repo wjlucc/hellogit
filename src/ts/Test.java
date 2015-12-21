@@ -11,6 +11,8 @@ int f = 21;
 
 int q ;
 int m ;
+String s = "kjsk";
+
 
 
 }
