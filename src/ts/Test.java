@@ -9,4 +9,8 @@ int d = 11;
 int e = 12;
 int f = 21;
 
+int q ;
+int m ;
+
+
 }
