@@ -21,4 +21,6 @@ String h2 = "网络";
 int n = 9;
 int p = 9;
 String lll = "wangluoceshi";
+int djfsk = 8;
+
 }
