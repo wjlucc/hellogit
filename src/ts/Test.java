@@ -15,4 +15,6 @@ String s = "kjsk";
 
 String t = "test";
 
+String h2 = "网络";
+
 }
