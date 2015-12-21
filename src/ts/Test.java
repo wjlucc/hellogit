@@ -7,18 +7,17 @@ int c = 14;
 
 int d = 11;
 int e = 2;
-int f = 21;
+String f = "bendiceshi";
 
 int q ;
 int m ;
 String s = "kjsk";
-
 String t = "test";
 
 
-String q1 = "±¾µØ";
+String q1 = "本地";
 
-String h2 = "ÍøÂç";
+String h2 = "网络";
 int n = 9;
 int p = 9;
 
