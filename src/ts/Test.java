@@ -16,8 +16,9 @@ String s = "kjsk";
 String t = "test";
 
 
-String q1 = "±¾µØ";
+String q1 = "Â±Â¾ÂµÃ˜";
 
-String h2 = "ÍøÂç";
+String h2 = "ÃÃ¸Ã‚Ã§";
+int n = 9;
 
 }
