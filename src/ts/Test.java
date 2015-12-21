@@ -6,7 +6,7 @@ int b = 9;
 int c = 14;
 
 int d = 11;
-int e = 12;
+int e = 2;
 int f = 21;
 
 int q ;
