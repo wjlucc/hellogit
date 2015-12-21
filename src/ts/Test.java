@@ -15,4 +15,6 @@ String s = "kjsk";
 
 String t = "test";
 
+String q1 = "±¾µØ";
+
 }
